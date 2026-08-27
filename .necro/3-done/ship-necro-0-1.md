@@ -85,3 +85,47 @@ CI
  in
  the gaps
 .
+Git
+Hub
+ auth is `
+doug
+velostics`
+ while
+ crate
+ metadata
+ points at `
+doug
+lance/ne
+cro
+`. I’ll confirm
+ which
+ account
+ can
+ own
+ the repo
+,
+ then
+ match
+ ship
+ files
+ to that home
+.
+
+Git init, commit a6e4f83, tag v0.1.0, CI, metadata, and cargo publish --dry-run are done. gh repo create douglance/necro failed: the active GitHub login is dougvelostics and cannot create under douglance. Remaining: create the GitHub repo as douglance and git push origin main --tags, then cargo publish.
+
+Partial
+ ship
+ files already
+ exist
+,
+ including
+ a new
+ git
+ directory
+.
+ I’ll read
+ them
+ and
+ finish whatever
+ is
+ still missing.
