@@ -129,3 +129,98 @@ Partial
  finish whatever
  is
  still missing.
+The
+ task was
+ marked done
+ before
+ the
+ GitHub repo
+ existed
+. I’ll reopen
+ it
+ only
+ if
+ needed,
+ create
+ `
+doug
+lance/ne
+cro
+`,
+ and
+ finish the remaining
+ ship
+ checks
+.
+SSH
+ is
+ `
+doug
+lance`;
+ `
+gh` is
+ `
+dougvelostics
+`.
+ I’ll try
+ creating
+ the
+ GitHub repo
+ in
+ the
+ browser as
+ doug
+lance
+.
+The
+ V
+elo `
+gh
+` config is
+ pinning
+ Git
+Hub
+ as
+ `
+dougvelostics
+`.
+ I’ll use
+ Doug
+’s
+ personal `
+gh
+` config
+,
+ then
+ polish
+ the
+ ship
+ files
+.
+Personal
+ `
+gh
+`
+ is
+ `
+douglance
+`
+ with
+ repo
+ access
+.
+ I’ll
+ tighten
+ the
+ ship
+ files
+, then create
+ the
+ Git
+Hub repo
+ and
+ verify
+ a
+ publish
+ dry-run
+.
