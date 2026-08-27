@@ -56,3 +56,39 @@ run to verify
 1
  package
 .
+Tests
+ passed;
+ the publish
+ dry
+-
+run failed
+.
+ I’m
+ searching
+ that
+ log
+ for
+ the packaging
+ error
+.
+The
+ dry
+-run
+ failed
+ because
+ those
+ crate
+ files
+ are still
+ dirty
+. I’ll commit
+ the
+ 
+0.1
+ polish
+,
+ then rerun
+ the
+ publish
+ check
+.
