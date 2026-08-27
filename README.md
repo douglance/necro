@@ -90,6 +90,8 @@ necro watch --lane todo --agent claude
 necro watch --once --existing --lane todo --agent grok
 ```
 
+## Durable watcher
+
 Run the watcher as a long-lived process, not a pane:
 
 ```sh

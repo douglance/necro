@@ -3,11 +3,13 @@ name = "necro"
 version = "0.1.0"
 edition = "2024"
 rust-version = "1.88"
+authors = ["Doug Lance <4741454+douglance@users.noreply.github.com>"]
 description = "File-board task manager for agents"
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/douglance/necro"
 repository = "https://github.com/douglance/necro"
+documentation = "https://docs.rs/necro"
 publish = ["crates-io"]
 keywords = ["tasks", "agents", "cli", "mcp", "markdown"]
 categories = ["command-line-utilities", "development-tools"]
@@ -16,6 +18,8 @@ include = [
     "README.md",
     "LICENSE",
     "CONTEXT.md",
+    "CHANGELOG.md",
+    "Cargo.lock",
 ]
 
 [[bin]]
